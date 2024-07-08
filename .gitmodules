@@ -1,0 +1,3 @@
+[submodule "themes/kitty-cobalt2"]
+	path = themes/kitty-cobalt2
+	url = https://github.com/lalitmee/kitty-cobalt2.git
